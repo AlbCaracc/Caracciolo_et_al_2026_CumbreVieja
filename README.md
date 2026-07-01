@@ -5,8 +5,7 @@ clustering, map visualisation, and clinopyroxene-liquid thermobarometry presente
 the manuscript "Recurrent evacuation of mantle mush by mafic recharge in ocean islands
 revealed by clinopyroxene from La Palma" (Caracciolo et al.).
 
-Map and single-spot trace-element data are archived on Zenodo:
-https://zenodo.org/records/21081068
+Map and single-spot trace-element data are archived on Zenodo:[10.5281/zenodo.21081067](https://doi.org/10.5281/zenodo.21081067)
 
 ## Folder layout
 
