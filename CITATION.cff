@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software/data, please cite it as below."
-title: "Caracciolo_et_al_2026_CumbreVieja: Supplementary data for the article 'Recurrent evacuation of mantle mush by mafic recharge in ocean islands revealed by clinopyroxene from La Palma'"
+title: "Caracciolo_et_al_2026_CumbreVieja: Supplementary material for the article 'Recurrent evacuation of mantle mush in ocean islands revealed by clinopyroxene from La Palma'"
 type: software
 version: 1.0.2
 date-released: 2026-07-01
@@ -35,7 +35,7 @@ repository-code: "https://github.com/AlbCaracc/Caracciolo_et_al_2026_CumbreVieja
 license: CC-BY-4.0
 preferred-citation:
   type: article
-  title: "Recurrent evacuation of mantle mush by mafic recharge in ocean islands revealed by clinopyroxene from La Palma"
+  title: "Recurrent evacuation of mantle mush in ocean islands revealed by clinopyroxene from La Palma"
   authors:
     - family-names: "Caracciolo"
       given-names: "Alberto"
