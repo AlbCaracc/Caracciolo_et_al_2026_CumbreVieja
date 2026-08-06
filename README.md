@@ -2,7 +2,7 @@
 
 This repository contains the code used to perform the clinopyroxene trace-element
 clustering, map visualisation, and clinopyroxene-liquid thermobarometry presented in
-the manuscript "Recurrent evacuation of mantle mush by mafic recharge in ocean islands
+the manuscript "Recurrent evacuation of mantle mush in ocean islands
 revealed by clinopyroxene from La Palma" (Caracciolo et al.).
 
 Map and single-spot trace-element data are archived on Zenodo:
